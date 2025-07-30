@@ -84,7 +84,8 @@ Ensure the input raster exists in the specified directory. The reclassified file
 **Emre Çalıova**  
 Meteorological Engineer
 
-📧 [caliova94@gmail.com](mailto:caliova94@gmail.com)  
+📧 [Mail](mailto:caliova94@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/emrecaliova)  
 📅 Created: 23.07.2025
 
 ---
