@@ -1,4 +1,4 @@
-# CORINE Land Cover Reclassification Tool
+# CORINE Land Cover Reclassification Script
 
 This repository provides a simple script for reclassifying **CORINE Land Cover (CLC)** raster data into generalized land use categories for hydrological modeling, especially for use in **mHM (mesoscale Hydrologic Model)**.
 
